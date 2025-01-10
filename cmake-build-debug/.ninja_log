@@ -1,0 +1,8 @@
+# ninja log v6
+27	330	7582361225475228	CMakeFiles/TicTacToe.dir/src/AI.cpp.obj	3976fe5d6c37ece
+33	605	7582361225528562	CMakeFiles/TicTacToe.dir/src/Network.cpp.obj	4ae111e70de8af4f
+5	609	7582361225267076	CMakeFiles/TicTacToe.dir/main.cpp.obj	24b365048fa4732b
+22	610	7582361225419709	CMakeFiles/TicTacToe.dir/src/Player.cpp.obj	f49f1f893b51843e
+11	617	7582361225317144	CMakeFiles/TicTacToe.dir/src/Game.cpp.obj	765109da52481a85
+17	650	7582361225374199	CMakeFiles/TicTacToe.dir/src/Board.cpp.obj	547a90b3b5c0c562
+651	795	7582361231710175	TicTacToe.exe	4762a03f9709080b

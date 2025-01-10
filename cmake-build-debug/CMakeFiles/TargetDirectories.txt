@@ -1,0 +1,3 @@
+C:/Users/magnu/OneDrive/Mine koder/C++/Tic-Tac-Toe/cmake-build-debug/CMakeFiles/TicTacToe.dir
+C:/Users/magnu/OneDrive/Mine koder/C++/Tic-Tac-Toe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/magnu/OneDrive/Mine koder/C++/Tic-Tac-Toe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
